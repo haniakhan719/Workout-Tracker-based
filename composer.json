@@ -1,0 +1,6 @@
+{
+    "name": "workout-tracker/app",
+    "description": "A workout tracker project",
+    "type": "project",
+    "require": {}
+}
